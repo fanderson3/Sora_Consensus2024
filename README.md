@@ -17,9 +17,11 @@ Why? :
     
     • SORA community members can use this occasion to learn how to vote on chain.
     
-    • If we vote yes to move forward, by the SORA community submitting a well prepared plan for a panel discussion we will increase awareness of SORA among the  crypto / Web3 community and the Consensus 2024 curator team and show the world that we have active community participation, governance and engagement with the wider blockchain community
+    • If we vote yes to move forward, by the SORA community submitting a well prepared plan for a panel discussion we will increase awareness of SORA among the
+    crypto / Web3 community and the Consensus 2024 curator team and show the world that we have active community participation, governance and engagement with the wider blockchain community
     
-    • If the SORA submission is selected by the Consensus community and the Consensus 2024 curator team, we will have the incredible opportunity to hold a panel discussion that includes topics we decide in front of a large audience in late May 2024. 
+    • If the SORA submission is selected by the Consensus community and the Consensus 2024 curator team, we will have the incredible opportunity to hold a panel discussion that includes topics 
+    that we select in front of a large audience in late May 2024. 
     
     • By doing these things we increase the value of SORA to the world, we will be enabling economic growth and we will spawn the creation of new purchasing power
 
