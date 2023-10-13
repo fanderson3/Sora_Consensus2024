@@ -24,7 +24,7 @@ Why? :
 - If the SORA submission is selected by the Consensus community and the Consensus 2024 curator team, we will have the incredible opportunity to hold a panel discussion that includes topics 
   that we select in front of a large audience in late May 2024. 
     
-G) By doing these things we increase the value of SORA to the world, we will be enabling economic growth and we will spawn the creation of new purchasing power
+- By doing these things we increase the value of SORA to the world, we will be enabling economic growth and we will spawn the creation of new purchasing power
 
 What is this event that Sora could participate in? What is Consensus 2024 ?
 Source:  https://consensus2024.coindesk.com/ 
@@ -38,5 +38,9 @@ Second – What is the proposed action that we SORA community members can discus
 The organizers of Consensus 2024 have announced a call to the Consensus community for proposals for speakers and even panel discussions. The Consensus community will vote on the proposals and the finalists will go to the organizers to review and pick the winners. 
 If the SORA community decide this is worth the cost, the decentralized SORA community could form a volunteer working group to collaborate in order to formulate and present a well thought out and attractive, professional proposal for a panel discussion where our ideas and our project can be discussed in front of a target audience. SORA could vote to provide funding for some elements of the proposal packaging and presentation like graphic design services, layout, and other elements that may make our proposal to the Consensus community attractive and effective. 
 If the proposal from the SORA community is selected and we are asked to implement our proposal for a panel discussion, the SORA community can fund expenses such as all the travel expenses for the participants so that they can represent our ideals and our ideas and SORA in front of the world. 
+
+IF you are interested in this idea, please bookmark this page and check for updates, feel free to join us in the SORA_Consensus2024 telegram chat here: https://t.me/+_koGfArwxbszZTBh
+
+
 
 
