@@ -34,7 +34,7 @@ It is called “Consensus” for a reason. This event is the primary forum where
 Consensus 2024 is your chance to be a part of the most important conversation in crypto and Web3
 
 
-Second – What is the proposed action that we can discuss and vote on? 
+Second – What is the proposed action that we SORA community members can discuss and perhaps vote on? 
 The organizers of Consensus 2024 have announced a call to the Consensus community for proposals for speakers and even panel discussions. The Consensus community will vote on the proposals and the finalists will go to the organizers to review and pick the winners. 
 If the SORA community decide this is worth the cost, the decentralized SORA community could form a volunteer working group to collaborate in order to formulate and present a well thought out and attractive, professional proposal for a panel discussion where our ideas and our project can be discussed in front of a target audience. SORA could vote to provide funding for some elements of the proposal packaging and presentation like graphic design services, layout, and other elements that may make our proposal to the Consensus community attractive and effective. 
 If the proposal from the SORA community is selected and we are asked to implement our proposal for a panel discussion, the SORA community can fund expenses such as all the travel expenses for the participants so that they can represent our ideals and our ideas and SORA in front of the world. 
