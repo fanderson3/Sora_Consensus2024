@@ -12,13 +12,18 @@ When? : Near term – preliminary discussions can be scheduled to take place in 
 
 Why? :  
     • By coming together and talking about this this idea, and perhaps even moving to an on-chain vote to decide yes or no on the question of funding SORA participation, we can strengthen our community communication and participation in SORA governance. 
-    • We can all consider a potentially beneficial way for the SORA community to engage with the wider cryptocurrency, blockchain, and Web3 community.  
+    
+    • We can all consider a potentially beneficial way for the SORA community to engage with the wider cryptocurrency, blockchain, and Web3 community. 
+    
     • SORA community members can use this occasion to learn how to vote on chain.
+    
     • If we vote yes to move forward, by the SORA community submitting a well prepared plan for a panel discussion we will increase awareness of SORA among the  crypto / Web3 community and the Consensus 2024 curator team and show the world that we have active community participation, governance and engagement with the wider blockchain community
+    
     • If the SORA submission is selected by the Consensus community and the Consensus 2024 curator team, we will have the incredible opportunity to hold a panel discussion that includes topics we decide in front of a large audience in late May 2024. 
+    
     • By doing these things we increase the value of SORA to the world, we will be enabling economic growth and we will spawn the creation of new purchasing power
 
-First - what is this event? What is Consensus 2024 ?
+What is this event? What is Consensus 2024 ?
 Source:  https://consensus2024.coindesk.com/ 
 Consensus is the world's largest, longest-running and most influential gathering that brings together all sides of the cryptocurrency, blockchain and Web3 community.
 From hard-hitting conversations with visionary speakers to hands-on workshops aimed at solving industry challenges, developers, investors, founders, brands, policymakers and more will walk away with the tools and insights needed to continue laying the foundation of a more decentralized future.
